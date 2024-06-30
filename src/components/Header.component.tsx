@@ -10,9 +10,9 @@ const Header = () => {
           <h6 className="text-right">Admin</h6>
         </div>
         <img
-          src="https://beforeigosolutions.com/wp-content/uploads/2021/12/dummy-profile-pic-300x300-1.png"
+          src="https://via.placeholder.com/100"
           alt="profilepic"
-          className="w-[54px] border rounded-full"
+          className="w-14 border rounded-full"
         />
       </div>
     </div>

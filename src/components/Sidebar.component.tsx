@@ -1,11 +1,11 @@
 const Sidebar = () => {
   return (
     <div className="bg-gradient-to-r from-blue-500 to-violet-500 h-full">
-      <div className="flex gap-x-2 pt-10 px-4">
+      <div className="flex gap-x-3 pt-10 px-4">
         <img
-          src="https://beforeigosolutions.com/wp-content/uploads/2021/12/dummy-profile-pic-300x300-1.png"
+          src="https://via.placeholder.com/100"
           alt="profilepic"
-          className="w-[54px] border rounded-full"
+          className="w-14 border rounded-full"
         />
         <div className="text-xl text-white">
           <h3>
